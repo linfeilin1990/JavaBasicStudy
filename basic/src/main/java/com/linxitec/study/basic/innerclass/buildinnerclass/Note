@@ -1,0 +1,2 @@
+创建内部类的格式：
+    OuterClass.InnerClass ic=new OuterClass().new InnerClass;
