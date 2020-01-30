@@ -1,5 +1,5 @@
 package com.linxitec.study.designpattern.stateExample2;
-
+//正在通话状态
 public class CallingState extends TelecommunicationState {
     @Override
     public void charge() {
