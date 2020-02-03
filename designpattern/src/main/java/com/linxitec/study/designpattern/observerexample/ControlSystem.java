@@ -5,7 +5,6 @@ public class ControlSystem {
         ChangE changE = new ChangE();
         changE.addObserverStation(new JiuQUanObserverStation());
         changE.addObserverStation(new XiChangObserverStation());
-        changE.addObserverStation(new TaiYuanObserverStation());
         changE.speed();
         changE.temperature();
     }
